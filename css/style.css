@@ -1,14 +1,14 @@
 header {
     border-radius: 10px;
-    background: #a0fdde;
-    color: black;
+    background: #276086;
+    color: #acd6f0;
     text-align: center;
 }
 
 nav{
     border-radius: 5px;
 min-height: 45px;
-background: #ff89dd;
+background:  #746670;
 margin-bottom: 10px;
 }
 
@@ -34,12 +34,12 @@ section{
 
     padding: 5px;
     border-radius: 10px;
-    background: #e24a4a;
+    background: #7a7a7a ;
 
 }
 
 article{
-    background: red;
+    background:  #a6a6a6;
     border-radius: 5px;
     margin: 10px;
     padding: 10px;
@@ -47,14 +47,15 @@ article{
 }
 
 aside{
-    background: #123456;
+    background: #92a0c4;
     border-radius: 10px;
 
 }
 
 footer{
-    background: #a0fdde;
-    color: azure;
+    background:#276086
+    ;
+    color: #acd6f0;
     text-align: center;
     text-transform: uppercase;
 
@@ -65,7 +66,7 @@ footer{
     width: 67%;
     float: left;
     margin-left: 5px;
-    margin-right: 5px;
+    margin-right: 10px;
 }
 
 .right-content{
